@@ -4,20 +4,20 @@ Summary Of the Project Objective:
 Visualize Olist Operational Data to figure out the Company's performance to get an overview insights to
 enhance their Operations, Sales and Business Using Different Methodologies and Tools.
 Business Requirements:
-
+- Define The Scenario of the Busines.
+ Business scenario
 ![image](https://github.com/user-attachments/assets/186a4968-ebd8-42c7-b99b-bf93d44a591d)
 
-
-- Define The Scenario of the Business
- Business scenario
 - Define the Audience
 - Define Business Questions
 
-  ![image](https://github.com/user-attachments/assets/689a7775-e720-4649-8514-ea4c97c8bf4a)
 
  Business Questions
+   ![image](https://github.com/user-attachments/assets/689a7775-e720-4649-8514-ea4c97c8bf4a)
+   
 - Going with the Approach of “There is no Return Rule for Orders “
 - Going with the Approach of “Keeping the Latest Records“While Updating the Data Warehouse
+  
 DW Design:
 ![image](https://github.com/user-attachments/assets/03a0c0cc-31f8-43ab-b0ce-cdeae83a9f86)
 
@@ -28,9 +28,8 @@ and Aggregation
 Data
  Data Warehouse Schema
 ETL Process :
-![image](https://github.com/user-attachments/assets/ed54b03b-d8f8-4e02-9c55-d393a6e06cb6)
 
-
+![image](https://github.com/user-attachments/assets/ed54b03b-d8f8-4e02-9c55-d393a6e06cb6) 
 * Filling DW: - Building ETL Packages Using SSIS to Extract all the Data from CSV File and doing all the
 Transformation needed on the Data to be ready to Load it into the Data Warehouse.
 
